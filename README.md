@@ -5,7 +5,7 @@
 <div>
     <a href="https://www.zhihu.com/people/BlueflameLi"><img src="https://img.shields.io/badge/知乎-BlueflameLi-0084FF?style=flat&logo=zhihu" /></a>&emsp;
     <a href="https://space.bilibili.com/12570204"><img src="https://img.shields.io/badge/哔哩哔哩-BlueflameLi-ff69b4?style=flat&logo=bilibili" /></a>&emsp;
-    <a href="https://blueflameli.github.io"><img src="https://img.shields.io/badge/Static_Blog-blueflameli.github.io-green?style=flat" /></a>&emsp;
+    <a href="https://blueflameli.github.io"><img src="https://img.shields.io/badge/Blog-blueflameli.github.io-green?style=flat" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BlueflameLi&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
